@@ -31,5 +31,5 @@ I'm currently working on more dashboards using different datasets. Stay tuned an
 ---
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-name](https://www.linkedin.com)
+- **LinkedIn:** [linkedin.com/in/ruby-gupta-0340a5172/](https://www.linkedin.com)
 - **Portfolio Site:** Coming soon!
